@@ -52,6 +52,7 @@ Key | Value
 
 ----
 ## Version
+- **v1.0.1** Fix hook file path.
 - **v1.0** Launch!
 
 
