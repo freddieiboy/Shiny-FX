@@ -48,4 +48,10 @@ Key | Value
 **hasGyro** | Boolean for checking gyroscope device.
 
 
-If you have questions or bugs. Submit an issue on github. 
+[Submit an issue on github for questions, bugs, or future suggestions 🥰](https://github.com/freddieiboy/Shiny-FX)
+
+----
+## Version
+- **v1.0** Launch!
+
+
