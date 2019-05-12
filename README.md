@@ -2,6 +2,10 @@
 
 Shiny FX is a component for designing shiny typography with any Google Font. This is the follow up to my gyroscope proof of concept component called Shiny. I've completely rewritten this component to support any custom shine that you want to create. Keep in mind that we're still at v1 so expect some bugs.
 
+<img src="./metadata/cover.gif"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 Shines (gradients) are 3 color values. _Start_, _Middle_, and _End_ properties. The middle color is the one that moves along the gradient line. This is what causes the illusion effect.
 
 > Note: Shiny FX works best with mobile devices that have window.deviceorientation events. This means that your prototypes can take advantage of the tilt angles of your phone.
