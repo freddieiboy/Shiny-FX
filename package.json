@@ -1,0 +1,19 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "2ad9e522-18ed-4176-9100-20c12d7cc431"
+	},
+	"author": "Freddie Iboy",
+	"dependencies": {
+		"@framer/steveruizok.drag-and-drop": "^1.1.0",
+		"react-helmet": "^5.2.1"
+	}
+}
