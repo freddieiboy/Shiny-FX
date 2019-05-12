@@ -9,10 +9,13 @@
 		"react": "^16.8"
 	},
 	"framer": {
-		"id": "2ad9e522-18ed-4176-9100-20c12d7cc431"
+		"id": "2ad9e522-18ed-4176-9100-20c12d7cc431",
+		"displayName": "Shiny FX"
 	},
 	"author": "Freddie Iboy",
 	"dependencies": {
 		"react-helmet": "^5.2.1"
-	}
+	},
+	"name": "@framer/freddieboyframer.shiny-fx",
+	"version": "1.0.0"
 }
