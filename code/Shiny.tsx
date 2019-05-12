@@ -215,7 +215,6 @@ export function useGyro() {
             const alpha = Math.round(event.alpha)
             const beta = Math.round(event.beta)
             const gamma = Math.round(event.gamma)
-            console.log(window)
 
             setGyroData({
                 x: beta, // -180 to 180
